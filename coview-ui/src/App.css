@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  display: block;
 }
 
 .App-link {
@@ -51,7 +52,7 @@
   float: left;
   width: fit-content;
   padding-right: 20px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 140px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -65,21 +66,39 @@
   width: -webkit-fill-available;
   border-radius: 10px;
 }
-#container{
-  padding: 0%;
-  margin: 0%;
-}
+
 .contentView{
    padding: 0%;
-   margin: 0%;
+   
+   width: fit-content;
+   height: fit-content;
+   margin: auto;
 }
 
 
 #btnAnalyser{
-  font-size: 40px;
+  font-size: inherit;
   height: fit-content;
-  border-radius: 5px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.btnAnalyser {
+  margin: auto;
+  margin-left: 0%;
 }
 #btnAnalyser:hover{
 background-color: burlywood;
+}
+h3{
+  margin: 0%;
+}
+h1{
+  margin: 0%;
+}
+div#container {
+  padding: 0%;
+  margin: 0%;
+  padding-left: 25rem;
+  display: flex;
 }

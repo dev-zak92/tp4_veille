@@ -4,8 +4,9 @@ class ResultView extends React.Component{
         super(props)
     }
 
-
+   
     render(){
+        console.log('les props: ', this.props);
         return(
             
             <div className="contentView">
@@ -15,7 +16,7 @@ class ResultView extends React.Component{
                     <div className="divCas">
                         <h1>Cas Enregistrés:</h1>
                         <div className="compteurCas">
-                            <span style={{color:'#aaa'}}>######</span>
+                             <span style={{color:'#aaa'}}>{this.props.props.nbAeroports===""?"####": this.props.props.nbAeroports}</span>
                         </div>
                     </div>
                 
@@ -24,7 +25,7 @@ class ResultView extends React.Component{
                     <div className="divCas">
                         <h1>Décès:</h1>
                         <div className="compteurMorts">
-                            <span style={{color:'#696969'}}>######</span>
+                            <span style={{color:'#696969'}}>{this.props.props.nbAeroports===""?"####": this.props.props.nbAeroports}</span>
                         </div>
                     </div>
                 
