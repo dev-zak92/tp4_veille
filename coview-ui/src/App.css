@@ -38,10 +38,9 @@
   }
 }
 
-.divCas{
+.divCas {
   font-size: 42px;
 }
-
 
 * {
   box-sizing: border-box;
@@ -57,26 +56,25 @@
 
 /* Clear floats after the columns */
 .row:after {
-  content: "";
+  content: '';
   display: table;
   clear: both;
 }
-#inputText{
+#inputText {
   height: 20%;
   width: -webkit-fill-available;
   border-radius: 10px;
 }
 
-.contentView{
-   padding: 0%;
-   
-   width: fit-content;
-   height: fit-content;
-   margin: auto;
+.contentView {
+  padding: 0%;
+
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
 }
 
-
-#btnAnalyser{
+#btnAnalyser {
   font-size: inherit;
   height: fit-content;
   border-radius: 10px;
@@ -87,13 +85,13 @@
   margin: auto;
   margin-left: 0%;
 }
-#btnAnalyser:hover{
-background-color: burlywood;
+#btnAnalyser:hover {
+  background-color: burlywood;
 }
-h3{
+h3 {
   margin: 0%;
 }
-h1{
+h1 {
   margin: 0%;
 }
 div#container {

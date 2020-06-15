@@ -1,0 +1,946 @@
+[
+  {
+    "Country": "United States",
+    "Airports": 13513
+  },
+  {
+    "Country": "Brazil",
+    "Airports": 4093
+  },
+  {
+    "Country": "Mexico",
+    "Airports": 1714
+  },
+  {
+    "Country": "Canada",
+    "Airports": 1467
+  },
+  {
+    "Country": "Russia",
+    "Airports": 1218
+  },
+  {
+    "Country": "Argentina",
+    "Airports": 1138
+  },
+  {
+    "Country": "Bolivia",
+    "Airports": 855
+  },
+  {
+    "Country": "Colombia",
+    "Airports": 836
+  },
+  {
+    "Country": "Paraguay",
+    "Airports": 799
+  },
+  {
+    "Country": "Indonesia",
+    "Airports": 673
+  },
+  {
+    "Country": "South Africa",
+    "Airports": 566
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Airports": 561
+  },
+  {
+    "Country": "Germany",
+    "Airports": 539
+  },
+  {
+    "Country": "China",
+    "Airports": 507
+  },
+  {
+    "Country": "Chile",
+    "Airports": 481
+  },
+  {
+    "Country": "Australia",
+    "Airports": 480
+  },
+  {
+    "Country": "France",
+    "Airports": 464
+  },
+  {
+    "Country": "United Kingdom",
+    "Airports": 460
+  },
+  {
+    "Country": "Venezuela",
+    "Airports": 444
+  },
+  {
+    "Country": "Ecuador",
+    "Airports": 432
+  },
+  {
+    "Country": "India",
+    "Airports": 346
+  },
+  {
+    "Country": "Iran",
+    "Airports": 319
+  },
+  {
+    "Country": "Guatemala",
+    "Airports": 291
+  },
+  {
+    "Country": "Philippines",
+    "Airports": 247
+  },
+  {
+    "Country": "Sweden",
+    "Airports": 231
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Airports": 214
+  },
+  {
+    "Country": "Congo Democratic Republic of the",
+    "Airports": 198
+  },
+  {
+    "Country": "Kenya",
+    "Airports": 197
+  },
+  {
+    "Country": "Zimbabwe",
+    "Airports": 196
+  },
+  {
+    "Country": "Peru",
+    "Airports": 191
+  },
+  {
+    "Country": "Ukraine",
+    "Airports": 187
+  },
+  {
+    "Country": "Angola",
+    "Airports": 176
+  },
+  {
+    "Country": "Japan",
+    "Airports": 175
+  },
+  {
+    "Country": "Tanzania",
+    "Airports": 166
+  },
+  {
+    "Country": "Costa Rica",
+    "Airports": 161
+  },
+  {
+    "Country": "Algeria",
+    "Airports": 157
+  },
+  {
+    "Country": "Pakistan",
+    "Airports": 151
+  },
+  {
+    "Country": "Spain",
+    "Airports": 150
+  },
+  {
+    "Country": "Finland",
+    "Airports": 148
+  },
+  {
+    "Country": "Nicaragua",
+    "Airports": 147
+  },
+  {
+    "Country": "Libya",
+    "Airports": 146
+  },
+  {
+    "Country": "Uruguay",
+    "Airports": 133
+  },
+  {
+    "Country": "Cuba",
+    "Airports": 133
+  },
+  {
+    "Country": "Oman",
+    "Airports": 132
+  },
+  {
+    "Country": "Italy",
+    "Airports": 129
+  },
+  {
+    "Country": "Czechia",
+    "Airports": 128
+  },
+  {
+    "Country": "Poland",
+    "Airports": 126
+  },
+  {
+    "Country": "New Zealand",
+    "Airports": 123
+  },
+  {
+    "Country": "Panama",
+    "Airports": 117
+  },
+  {
+    "Country": "Guyana",
+    "Airports": 117
+  },
+  {
+    "Country": "Malaysia",
+    "Airports": 114
+  },
+  {
+    "Country": "Namibia",
+    "Airports": 112
+  },
+  {
+    "Country": "Korea South",
+    "Airports": 111
+  },
+  {
+    "Country": "Honduras",
+    "Airports": 103
+  },
+  {
+    "Country": "Iraq",
+    "Airports": 102
+  },
+  {
+    "Country": "Thailand",
+    "Airports": 101
+  },
+  {
+    "Country": "Mozambique",
+    "Airports": 98
+  },
+  {
+    "Country": "Turkey",
+    "Airports": 98
+  },
+  {
+    "Country": "Kazakhstan",
+    "Airports": 96
+  },
+  {
+    "Country": "Iceland",
+    "Airports": 96
+  },
+  {
+    "Country": "Norway",
+    "Airports": 95
+  },
+  {
+    "Country": "Syria",
+    "Airports": 90
+  },
+  {
+    "Country": "Zambia",
+    "Airports": 88
+  },
+  {
+    "Country": "South Sudan",
+    "Airports": 85
+  },
+  {
+    "Country": "Madagascar",
+    "Airports": 83
+  },
+  {
+    "Country": "Egypt",
+    "Airports": 83
+  },
+  {
+    "Country": "Korea North",
+    "Airports": 82
+  },
+  {
+    "Country": "Denmark",
+    "Airports": 80
+  },
+  {
+    "Country": "Greece",
+    "Airports": 77
+  },
+  {
+    "Country": "Botswana",
+    "Airports": 74
+  },
+  {
+    "Country": "Sudan",
+    "Airports": 74
+  },
+  {
+    "Country": "Croatia",
+    "Airports": 69
+  },
+  {
+    "Country": "Bulgaria",
+    "Airports": 68
+  },
+  {
+    "Country": "El Salvador",
+    "Airports": 68
+  },
+  {
+    "Country": "Belarus",
+    "Airports": 65
+  },
+  {
+    "Country": "Burma",
+    "Airports": 64
+  },
+  {
+    "Country": "Portugal",
+    "Airports": 64
+  },
+  {
+    "Country": "Switzerland",
+    "Airports": 63
+  },
+  {
+    "Country": "Lithuania",
+    "Airports": 61
+  },
+  {
+    "Country": "Bahamas The",
+    "Airports": 61
+  },
+  {
+    "Country": "Somalia",
+    "Airports": 61
+  },
+  {
+    "Country": "Chad",
+    "Airports": 59
+  },
+  {
+    "Country": "Ethiopia",
+    "Airports": 57
+  },
+  {
+    "Country": "Yemen",
+    "Airports": 57
+  },
+  {
+    "Country": "Suriname",
+    "Airports": 55
+  },
+  {
+    "Country": "Morocco",
+    "Airports": 55
+  },
+  {
+    "Country": "French Polynesia",
+    "Airports": 54
+  },
+  {
+    "Country": "Nigeria",
+    "Airports": 54
+  },
+  {
+    "Country": "Uzbekistan",
+    "Airports": 53
+  },
+  {
+    "Country": "Austria",
+    "Airports": 52
+  },
+  {
+    "Country": "Afghanistan",
+    "Airports": 52
+  },
+  {
+    "Country": "Belize",
+    "Airports": 47
+  },
+  {
+    "Country": "Uganda",
+    "Airports": 47
+  },
+  {
+    "Country": "Israel",
+    "Airports": 47
+  },
+  {
+    "Country": "Nepal",
+    "Airports": 47
+  },
+  {
+    "Country": "Romania",
+    "Airports": 45
+  },
+  {
+    "Country": "Vietnam",
+    "Airports": 45
+  },
+  {
+    "Country": "Mongolia",
+    "Airports": 44
+  },
+  {
+    "Country": "Gabon",
+    "Airports": 44
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Airports": 43
+  },
+  {
+    "Country": "Latvia",
+    "Airports": 42
+  },
+  {
+    "Country": "Belgium",
+    "Airports": 41
+  },
+  {
+    "Country": "Laos",
+    "Airports": 41
+  },
+  {
+    "Country": "Hungary",
+    "Airports": 41
+  },
+  {
+    "Country": "Ireland",
+    "Airports": 40
+  },
+  {
+    "Country": "Central African Republic",
+    "Airports": 39
+  },
+  {
+    "Country": "Taiwan",
+    "Airports": 37
+  },
+  {
+    "Country": "Azerbaijan",
+    "Airports": 37
+  },
+  {
+    "Country": "Solomon Islands",
+    "Airports": 36
+  },
+  {
+    "Country": "Dominican Republic",
+    "Airports": 36
+  },
+  {
+    "Country": "Slovakia",
+    "Airports": 35
+  },
+  {
+    "Country": "Cameroon",
+    "Airports": 33
+  },
+  {
+    "Country": "Malawi",
+    "Airports": 32
+  },
+  {
+    "Country": "Vanuatu",
+    "Airports": 31
+  },
+  {
+    "Country": "Niger",
+    "Airports": 30
+  },
+  {
+    "Country": "Mauritania",
+    "Airports": 30
+  },
+  {
+    "Country": "Liberia",
+    "Airports": 29
+  },
+  {
+    "Country": "Tunisia",
+    "Airports": 29
+  },
+  {
+    "Country": "PuertoRico",
+    "Airports": 29
+  },
+  {
+    "Country": "Netherlands",
+    "Airports": 29
+  },
+  {
+    "Country": "Fiji",
+    "Airports": 28
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Airports": 28
+  },
+  {
+    "Country": "Jamaica",
+    "Airports": 28
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Airports": 27
+  },
+  {
+    "Country": "Congo  Republic of the",
+    "Airports": 27
+  },
+  {
+    "Country": "Turkmenistan",
+    "Airports": 26
+  },
+  {
+    "Country": "Serbia",
+    "Airports": 26
+  },
+  {
+    "Country": "NewCaledonia",
+    "Airports": 25
+  },
+  {
+    "Country": "Mali",
+    "Airports": 25
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Airports": 24
+  },
+  {
+    "Country": "Tajikistan",
+    "Airports": 24
+  },
+  {
+    "Country": "Lesotho",
+    "Airports": 24
+  },
+  {
+    "Country": "BurkinaFaso",
+    "Airports": 23
+  },
+  {
+    "Country": "Antarctica",
+    "Airports": 23
+  },
+  {
+    "Country": "Georgia",
+    "Airports": 22
+  },
+  {
+    "Country": "Senegal",
+    "Airports": 20
+  },
+  {
+    "Country": "Sri Lanka",
+    "Airports": 19
+  },
+  {
+    "Country": "Kiribati",
+    "Airports": 19
+  },
+  {
+    "Country": "Bangladesh",
+    "Airports": 18
+  },
+  {
+    "Country": "Jordan",
+    "Airports": 18
+  },
+  {
+    "Country": "Estonia",
+    "Airports": 18
+  },
+  {
+    "Country": "Cambodia",
+    "Airports": 16
+  },
+  {
+    "Country": "Slovenia",
+    "Airports": 16
+  },
+  {
+    "Country": "Guinea",
+    "Airports": 16
+  },
+  {
+    "Country": "Cyprus",
+    "Airports": 15
+  },
+  {
+    "Country": "Marshall Islands",
+    "Airports": 15
+  },
+  {
+    "Country": "Greenland",
+    "Airports": 15
+  },
+  {
+    "Country": "Haiti",
+    "Airports": 14
+  },
+  {
+    "Country": "Swaziland",
+    "Airports": 14
+  },
+  {
+    "Country": "Seychelles",
+    "Airports": 14
+  },
+  {
+    "Country": "Eritrea",
+    "Airports": 13
+  },
+  {
+    "Country": "Djibouti",
+    "Airports": 13
+  },
+  {
+    "Country": "Cook Islands",
+    "Airports": 11
+  },
+  {
+    "Country": "Armenia",
+    "Airports": 11
+  },
+  {
+    "Country": "Macedonia",
+    "Airports": 10
+  },
+  {
+    "Country": "Ghana",
+    "Airports": 10
+  },
+  {
+    "Country": "Cabo Verde",
+    "Airports": 9
+  },
+  {
+    "Country": "Singapore",
+    "Airports": 9
+  },
+  {
+    "Country": "Maldives",
+    "Airports": 9
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Airports": 8
+  },
+  {
+    "Country": "Lebanon",
+    "Airports": 8
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Airports": 8
+  },
+  {
+    "Country": "Togo",
+    "Airports": 8
+  },
+  {
+    "Country": "Sierra Leone",
+    "Airports": 8
+  },
+  {
+    "Country": "Burundi",
+    "Airports": 7
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Airports": 7
+  },
+  {
+    "Country": "Rwanda",
+    "Airports": 7
+  },
+  {
+    "Country": "Kuwait",
+    "Airports": 7
+  },
+  {
+    "Country": "Moldova",
+    "Airports": 7
+  },
+  {
+    "Country": "Falkl and Islands (Islas Malvinas)",
+    "Airports": 7
+  },
+  {
+    "Country": "Benin",
+    "Airports": 6
+  },
+  {
+    "Country": "Kosovo",
+    "Airports": 6
+  },
+  {
+    "Country": "Micronesia Federated States of",
+    "Airports": 6
+  },
+  {
+    "Country": "Western Sahara",
+    "Airports": 6
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Airports": 6
+  },
+  {
+    "Country": "Timor-Leste",
+    "Airports": 6
+  },
+  {
+    "Country": "Tonga",
+    "Airports": 6
+  },
+  {
+    "Country": "Qatar",
+    "Airports": 6
+  },
+  {
+    "Country": "Guam",
+    "Airports": 5
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Airports": 5
+  },
+  {
+    "Country": "Montenegro",
+    "Airports": 5
+  },
+  {
+    "Country": "Mauritius",
+    "Airports": 5
+  },
+  {
+    "Country": "Albania",
+    "Airports": 4
+  },
+  {
+    "Country": "Bahrain",
+    "Airports": 4
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Airports": 4
+  },
+  {
+    "Country": "Comoros",
+    "Airports": 4
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Airports": 4
+  },
+  {
+    "Country": "Samoa",
+    "Airports": 4
+  },
+  {
+    "Country": "Spratly Islands",
+    "Airports": 4
+  },
+  {
+    "Country": "Svalbard",
+    "Airports": 4
+  },
+  {
+    "Country": "French Southern and Antarctic Lands",
+    "Airports": 4
+  },
+  {
+    "Country": "American Samoa",
+    "Airports": 3
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Airports": 3
+  },
+  {
+    "Country": "Palau",
+    "Airports": 3
+  },
+  {
+    "Country": "Grenada",
+    "Airports": 3
+  },
+  {
+    "Country": "Cayman Islands",
+    "Airports": 3
+  },
+  {
+    "Country": "Anguilla",
+    "Airports": 2
+  },
+  {
+    "Country": "Bhutan",
+    "Airports": 2
+  },
+  {
+    "Country": "Dominica",
+    "Airports": 2
+  },
+  {
+    "Country": "Guernsey",
+    "Airports": 2
+  },
+  {
+    "Country": "Hong Kong",
+    "Airports": 2
+  },
+  {
+    "Country": "Luxembourg",
+    "Airports": 2
+  },
+  {
+    "Country": "West Bank",
+    "Airports": 2
+  },
+  {
+    "Country": "Saint Lucia",
+    "Airports": 2
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Airports": 2
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Airports": 2
+  },
+  {
+    "Country": "Virgin Islands",
+    "Airports": 2
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "Airports": 2
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Airports": 2
+  },
+  {
+    "Country": "Aruba",
+    "Airports": 1
+  },
+  {
+    "Country": "Wake Island",
+    "Airports": 1
+  },
+  {
+    "Country": "Bermuda",
+    "Airports": 1
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "Airports": 1
+  },
+  {
+    "Country": "Brunei",
+    "Airports": 1
+  },
+  {
+    "Country": "Christmas Island",
+    "Airports": 1
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "Airports": 1
+  },
+  {
+    "Country": "Faroe Islands",
+    "Airports": 1
+  },
+  {
+    "Country": "Gambia The",
+    "Airports": 1
+  },
+  {
+    "Country": "Gaza Strip",
+    "Airports": 1
+  },
+  {
+    "Country": "Gibraltar",
+    "Airports": 1
+  },
+  {
+    "Country": "Isle of Man",
+    "Airports": 1
+  },
+  {
+    "Country": "Jan Mayen",
+    "Airports": 1
+  },
+  {
+    "Country": "Jersey",
+    "Airports": 1
+  },
+  {
+    "Country": "Macau",
+    "Airports": 1
+  },
+  {
+    "Country": "Malta",
+    "Airports": 1
+  },
+  {
+    "Country": "Montserrat",
+    "Airports": 1
+  },
+  {
+    "Country": "Nauru",
+    "Airports": 1
+  },
+  {
+    "Country": "Niue",
+    "Airports": 1
+  },
+  {
+    "Country": "Norfolk Island",
+    "Airports": 1
+  },
+  {
+    "Country": "Paracel Islands",
+    "Airports": 1
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "Airports": 1
+  },
+  {
+    "Country": "SaintHelena Ascension and Trist and a Cunha",
+    "Airports": 1
+  },
+  {
+    "Country": "Saint Martin",
+    "Airports": 1
+  },
+  {
+    "Country": "Sint Maarten",
+    "Airports": 1
+  },
+  {
+    "Country": "Tuvalu",
+    "Airports": 1
+  },
+  {
+    "Country": "Barbados",
+    "Airports": 1
+  }
+]
